@@ -18,7 +18,7 @@ Currently on the surface of Mars, NASA has 4 rovers; Curiosity, Spirit, Opportun
 
 #### Multiple Cameras
 
-![List of Rovers and their cameras](/Images/Rover%20Cams.PNG)
+![List of Rovers and their cameras](/Images/Rover%20Cams.png)
 
 #### Interactive Map
 
