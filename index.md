@@ -25,10 +25,17 @@ Currently on the surface of Mars, NASA has 4 rovers; Curiosity, Spirit, Opportun
 ![Interactive Rover Map](/Images/Rover%20Map.png)
 
 #### Access Mars
-This is a neat project that is a rudimentary 360 experience that has stitched together images taken from Curiosity's landing zone that has a voice over that explains some interesting features of the Curiosity rover as well as a short animation explaining the Curiosity launch mission. Visit: https://accessmars.withgoogle.com/ to have a look!
+This is a neat project that is a rudimentary 360 experience that has stitched together images taken from Curiosity's landing zone that has a voice over that explains some interesting features of the Curiosity rover as well as a short animation explaining the Curiosity launch mission.
+
+Visit: https://accessmars.withgoogle.com/ to have a look!
 
 ![Screenshot of NASA's Access Mars Web app](/Images/Access%20Mars.png)
 
-I'm spoiled for choice, there's a great documentation for queries using the Mars API, maintained by [Chris Cerami](https://github.com/corincerami/mars-photo-api)
+I'm spoiled for choice, there's a great documentation for queries using the Mars API, maintained by [Chris Cerami](https://github.com/corincerami/mars-photo-api), so I have a lot of faith that whatever I choose to do, I have the neccessary tools to help me figure out how to execute it.
+Speaking of whatever I choose to do, what do I have planned?
+
+### The Idea pt.2: Now with Less rambling maybe
+
+
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
