@@ -8,7 +8,12 @@ After exploring some public API's I discovered that NASA have public API's for a
 
 ![Screenshot of NASA's APIs](NASA Api's.png)
 
+
 The following is a Process Documentation outlining how I'm building my Project.
+
+### The Idea
+
+The Mars Rovers have always facinated me. They're the modern version of astronaughts, a millenial's explorer, and following their exploits scratches that itch of exploring the unknown.
 
 
 ![University of the Sunshine Coast Logo](USC%20logo.PNG)
