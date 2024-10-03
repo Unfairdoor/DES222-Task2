@@ -29,6 +29,6 @@ This is a neat project that is a rudimentary 360 experience that has stitched to
 
 ![Screenshot of NASA's Access Mars Web app](/Images/Access%20Mars.png)
 
-
+I'm spoiled for choice, there's a great documentation for queries using the Mars API, maintained by [Chris Cerami](https://github.com/corincerami/mars-photo-api)
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
