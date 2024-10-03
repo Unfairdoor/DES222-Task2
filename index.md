@@ -24,6 +24,8 @@ Currently on the surface of Mars, NASA has 4 rovers; Curiosity, Spirit, Opportun
 
 ![Interactive Rover Map](/Images/Rover%20Map.png)
 
+Link: https://science.nasa.gov/mission/mars-2020-perseverance/location-map/ 
+
 #### Access Mars
 This is a neat project that is a rudimentary 360 experience that has stitched together images taken from Curiosity's landing zone that has a voice over that explains some interesting features of the Curiosity rover as well as a short animation explaining the Curiosity launch mission.
 
@@ -36,6 +38,7 @@ Speaking of whatever I choose to do, what do I have planned?
 
 ### The Idea pt.2: Now with Less rambling maybe
 
+Turns out there's only 2 rovers left on mars? Gotta look a bit more in to it
 
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
