@@ -85,9 +85,16 @@ You can also substitute the '/photos?' for '/latest_photos?' For the most recent
 Queries are seperated by & and can be in the following order
 ?sol={SOLNUMBER}&earth_date={yyyy-mm-dd}&camera={CAMERA}
 
-When the requests are sent, they return a JSON with the requested information, which can be a little long-winded but it has everything we need
+When the requests are sent, they return a JSON with the requested information, which can be a little long-winded but it has everything we need, here is an example code snippet.
+
 ![GET Request](/Images/GET%20Request.png)
 
-This returns 
+From here we can extract just the image link:
+
+![Image Link](/Images/Filtering%20for%20Image.png)
+
+Which returns this:
+
+![FHAZ Extraction example](/Images/FHAZ%20Example.jpg)
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
