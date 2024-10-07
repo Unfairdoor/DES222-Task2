@@ -72,7 +72,9 @@ With so many cameras, simply throwing them all up onto a dashboard I think would
 ![Figma Screenshot 1](/Images/Figma%20Screenshot%201.png)
 
 Here is my first mockup of a site layout in figma. The design uses somponents of a manilla folder to seperate the different cameras of each Rover. I have the rover selection at the bottom, but I could just as easily see them being situated at the top of the screen too.
-The background is a simple black and the colour scheme is following a warm colour palette to simulate Mars. I'm not sold on it personally and I'm going to try more variations.
+The background is a simple black and the colour scheme is following a warm colour palette to simulate Mars.
+
+I'm not yet sold on it and I'm going to try more variations.
 
 ### Exploring the API
 
@@ -82,7 +84,7 @@ API requests use the following format
 Base URL
 https://mars-photos.herokuapp.com/api/v1/rovers/{ROVERNAME}/photos?{QUERY}&{HERE}
 You can also substitute the '/photos?' for '/latest_photos?' For the most recent sol for which photos exist
-Queries are seperated by & and can be in the following order
+Queries are seperated by & and can be in the following order:
 ?sol={SOLNUMBER}&earth_date={yyyy-mm-dd}&camera={CAMERA}
 
 When the requests are sent, they return a JSON with the requested information, which can be a little long-winded but it has everything we need, here is an example code snippet.
@@ -96,5 +98,16 @@ From here we can extract just the image link:
 Which returns this:
 
 ![FHAZ Extraction example](/Images/FHAZ%20Example.jpg)
+
+Next is to implement this code or a version of it into HTML and Java for a desktop version. 
+
+#### Possible Additions:
+
+- **Notifications:** A notification system could be interesting to implement, not so much as doing push notifications to an app or anything, more like a little 'NEW' sticker above the tabs that have updates the same day the the webpage is accessed.
+- **3d Models:** There could be some way to implement a viewer for 3d models on the site. I have no idea how difficult that would be, however
+- **Rover Locations:** Similar to the 3d models, it could be interesting to integrate NASA's interactive maps into the site. It doesn't really relate to the 'responsive design' aspect of the bried though.
+- **Current Orbits:** Having some way to show Mars's orbit compared to Earth's at the time of the picture would be interesting too, though while the 3d models and maps are provided by NASA, I can't find any good orbit models available so this may be less feasable than the others.
+
+
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
