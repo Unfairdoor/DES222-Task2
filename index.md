@@ -47,6 +47,7 @@ In May 2009, Spirit became stuck in soft soil at a site called "Troy". After mon
 Opportunity was Spirit's twin rover, landing on Mars in 2004, it made a number of discoveries in its 90 day mission, then continued operations until june 2018, exceeding its life expectancy by 60 times. It ceased communications in June 2018 after a severe Mars-wide dust storm blanketed the rover's location. After a failed attempt to revive the rover in February 2019, efforts were ceased and the rover's status is now past.
 
 Curiosity and Perseverance are currently still active on the Mars surface, below is a diagram NASA has provided the public outlining the locations of all Curiosity's cameras.
+
 ![Curiosity Camera Locations](/Images/Curiosity%20Camera%20Locations.png)
 
 
@@ -56,8 +57,15 @@ I have no strong direction I want to take the site, so I'm going to wing the des
 
 ![NASA Site Example Clip](/Images/NASA%20Site%20Example.png)
 
+#### What's in it?
 
+So the main idea is to have the most recent pictures the rover has taken. The main problem is, there are a lot of cameras on each rover. Some are used MUCH more often than others as they all serve different purposes. Some are used for navigation, some for hazzard identification and the curiosity even has a camera called CHEMCAM which sends a high-powered lazer to vaporize an object then take an infre-red picture to help identify the object's chemical composition.
 
+With so many cameras, simply throwing them all up onto a dashboard I think would be too confusing, so I'd like to have some sort of selection system. Initially I had thought of having some sort of interactive object that would highlight cameras as you moused-over them and you click to bring up the associated pictures. After seeing the arrangement, particularly of each rover's mast having 3 different types of cameras in a small area, that idea seemed a bit clunky. I think a tabular-based system would work well, but to keep the idea of highlighting I decided to find an image that clearly shows all cameras and just colour the corresponding camera and display it on each tab. Turns out that NASA has 3D models of each rover in the public domain, so I can download them and edit the UV Textures accordingly!
+
+![Curiosity 3D Mesh](/Images/Rover%20Mesh.png)
+
+![Curiosity ChemCam Highlight](/Images/Mast%20Camera%20Highlight.png)
 
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
