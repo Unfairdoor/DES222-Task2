@@ -36,9 +36,28 @@ Visit: https://accessmars.withgoogle.com/ to have a look!
 I'm spoiled for choice, there's a great documentation for queries using the Mars API, maintained by [Chris Cerami](https://github.com/corincerami/mars-photo-api), so I have a lot of faith that whatever I choose to do, I have the neccessary tools to help me figure out how to execute it.
 Speaking of whatever I choose to do, what do I have planned?
 
-### The Idea pt.2: Now with Less rambling maybe
+The idea is to have a site that will have the most recent pictures of each rover and each camera on display. Though at this point I'm not 100% sure how often the API is updated with new pictures, I believe that it would be possible to create a script that would update every time the page is reloaded. The intention is not to serve as a database like NASA already has implemented, but instead to serve as a 'What's New?' style of catalogue, not storing any pictures at all.
 
-Turns out there's only 2 rovers left on mars? Gotta look a bit more in to it
+
+#### The Last 2
+
+Of the 4 afforementioned NASA rovers, only two remain. 
+In May 2009, Spirit became stuck in soft soil at a site called "Troy". After months of testing and maneuvers, NASA ended their efforts to free the rover and ended its mission on May 25th 2011. Spirit's journey began in 2003 on a 90 day mission to explore signs of water and far exceeded its expected operation time.![Read More Here](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+
+Opportunity was Spirit's twin rover, landing on Mars in 2004, it made a number of discoveries in its 90 day mission, then continued operations until june 2018, exceeding its life expectancy by 60 times. It ceased communications in June 2018 after a severe Mars-wide dust storm blanketed the rover's location. After a failed attempt to revive the rover in February 2019, efforts were ceased and the rover's status is now past.
+
+Curiosity and Perseverance are currently still active on the Mars surface, below is a diagram NASA has provided the public outlining the locations of all Curiosity's cameras.
+![Curiosity Camera Locations](/Images/Curiosity%20Camera%20Locations.png)
+
+
+### Site Layout
+
+I have no strong direction I want to take the site, so I'm going to wing the design and play around with elements until something clicks. The colour scheme I can't make up my mind if I'd prefer something that is Mars-themed (lots of warm tones, reds, maroons, etc.) or something more generically space-ey like wistful cool blues and purples. Another great theme to take inspiration from could be NASA's own ![site](https://www.nasa.gov/).
+
+![NASA Site Example Clip](/Images/NASA%20Site%20Example.png)
+
+
+
 
 
 ![University of the Sunshine Coast Logo](/Images/USC%20logo.PNG)
